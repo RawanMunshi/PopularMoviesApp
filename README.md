@@ -10,7 +10,7 @@ PopularMoviesApp is a Android app that helps users to discover popular and highl
 * Allow users to read reviews of a selected movie.
 * Allow users to mark a movie as a favorite in the details view by tapping a button (star).
 
-# Note 
+### Note 
 To use it :
 * You Need to get your Movie DB API key (https://www.themoviedb.org/)
 * Put your Movie DB API Key in the API_KEY in gradle.properties
