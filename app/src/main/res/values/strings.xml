@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular">Popular</string>
+    <string name="top_rating">Top Rating</string>
+    <string name="error_message_no_connection">
+        There is no Internet connection. Please, check your network and try again. </string>
+    <string name="error_message">
+        There is a problem. Please, try again. </string>
+    <string name="error_message_no_favorite">
+        The favorite movies list is empty. </string>
+    <string name="error_message_no_videos">
+        There is no videos for this movie. </string>
+    <string name="error_message_no_reviews">
+        There is no reviews for this movie. </string>
+    <string name="top_rated_movies">TOP RATED MOVIES</string>
+    <string name="most_popular_movies">MOST POPULAR MOVIES</string>
+    <string name="minute">min</string>
+    <string name="my_favorite">My Favorite</string>
+    <string name="favorite_movies">MY FAVORITE  MOVIES</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="videos_label">Videos</string>
+    <string name="poster_label">poster</string>
+    <string name="genres_label">genres</string>
+    <string name="star_label">star</string>
+    <string name="duration_label">duration</string>
+</resources>
